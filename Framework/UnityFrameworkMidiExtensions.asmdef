@@ -1,5 +1,5 @@
 {
-    "name": "NewAssembly",
+    "name": "UnityFrameworkMidiExtensions",
     "references": [
         "GUID:b3dbe794f4ef10045919fab309a06b4b",
         "GUID:744ba4535175c8645890387cfe482691",
