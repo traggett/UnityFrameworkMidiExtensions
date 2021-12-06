@@ -1,11 +1,11 @@
 {
-    "name": "UnityFrameworkMidiExtensions",
+    "name": "Framework.MidiSystem",
+    "rootNamespace": "",
     "references": [
-        "GUID:b3dbe794f4ef10045919fab309a06b4b",
+        "GUID:80458ec05d7cf8f4abc9b1abe418f54c",
         "GUID:744ba4535175c8645890387cfe482691",
         "GUID:63b13382960230a43b1686a486938495"
     ],
-    "optionalUnityReferences": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
@@ -13,5 +13,6 @@
     "precompiledReferences": [],
     "autoReferenced": true,
     "defineConstraints": [],
-    "versionDefines": []
+    "versionDefines": [],
+    "noEngineReferences": false
 }

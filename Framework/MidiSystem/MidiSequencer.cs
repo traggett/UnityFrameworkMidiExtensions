@@ -92,7 +92,7 @@ namespace Framework
 				}
 				catch (Exception exc)
 				{
-					Debug.LogError("Error: " + exc.Message);
+					UnityEngine.Debug.LogError("Error: " + exc.Message);
 				}
 
 				return sequence;
